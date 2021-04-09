@@ -1,6 +1,6 @@
 {
 		"name": "express-mongo-generator",
-		"version": "1.1.5",
+		"version": "1.1.6",
 		"description": "Develop Node JS API using CLI (Mongoose Model and APIs(insert,list,update,delete))",
 		"main": "cli.js",
 		"bin": {
